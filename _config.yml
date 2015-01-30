@@ -1,0 +1,27 @@
+# Site settings
+name: Brent Engwall
+title: Brent's Blog
+email: brent.engwall@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Professional Web Application Designer, Developer, Learner
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "www.brentengwall.com" # the base hostname & protocol for your site
+twitter_username: brentengwall
+github_username:  bengwall
+linkedin_username: brentengwall
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: 'bengwall'
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-55624544-1
+
+permalink: /:title/
+
+paginate: 5
+

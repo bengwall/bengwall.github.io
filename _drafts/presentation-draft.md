@@ -2,11 +2,9 @@
 published: false
 ---
 
-- https://kobra.io/#/
-
 Revel.js Presentations
 - https://github.com/zachsnow/angularjs-talk
-- www.slides.io
+- https://github.com/tchatel/angular-showoff
 - 
 
 Quote and Bind Design
